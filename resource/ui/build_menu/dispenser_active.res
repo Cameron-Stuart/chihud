@@ -4,7 +4,7 @@
 {
 	"ItemNameLabel"
 	{	
-		"labelText"		"Healer"
+		"labelText"		"Dispenser"
 	}
 	
 	"BuildingIcon"	

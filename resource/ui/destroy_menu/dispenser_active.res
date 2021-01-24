@@ -14,7 +14,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"Healer"
+		"labelText"		"Dispenser"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

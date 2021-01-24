@@ -4,8 +4,8 @@
 {
 	"ItemNameLabel"
 	{	
-		"labelText"		"Gun"
-		"labelText_lodef"		"Gun"
+		"labelText"		"Sentry"
+		"labelText_lodef"		"Sentry"
 	}
 	
 	"NumberLabel"
