@@ -24,7 +24,7 @@
 		"wide"		"f0"
 		"tall"		"20"
 		"proportionaltoparent"	"1"
-		"labeltext"		"comp"
+		"labeltext"		"COMPETITIVE"
 		"textAlignment"	"west"
 		"font"			"robotobold24"
 		"fgcolor_override"	"mklightblue"

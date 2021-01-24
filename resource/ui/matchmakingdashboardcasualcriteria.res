@@ -24,7 +24,7 @@
 		"wide"		"f0"
 		"tall"		"20"
 		"proportionaltoparent"	"1"
-		"labeltext"		"casual"
+		"labeltext"		"CASUAL"
 		"textAlignment"	"west"
 		"font"			"HudFontMediumBigBold"
 		"fgcolor_override"	"mklightblue"

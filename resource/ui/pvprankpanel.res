@@ -245,7 +245,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
 			"xpos"			"rs1-6"
-			"ypos"			"-10"
+			"ypos"			"-5"
 			"wide"			"f70"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -262,12 +262,10 @@
 				"Controlname"	"EditablePanel"
 				"fieldName"		"XPBar"
 				"xpos"			"cs-0.5"
-				"ypos"			"rs1-3"
+				"ypos"			"rs1"
 				"wide"			"p1"
-				"tall"			"30"
+				"tall"			"20"
 				"proportionaltoparent"	"1"
-
-	
 
 				"CurrentXPLabel"
 				{
