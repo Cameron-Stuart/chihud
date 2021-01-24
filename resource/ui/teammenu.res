@@ -67,7 +67,7 @@
 		"labelText"		"SELECT YOUR"
 		"textAlignment"	"left"
 		"font"			"RobotoL22"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"SelectTeamLabel"
 	{
@@ -86,7 +86,7 @@
 		"labelText"		"TEAM"
 		"textAlignment"	"left"
 		"font"			"NeutraTitle52"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"team"
 	{
@@ -372,8 +372,8 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"RobotoBold16"
-		"fgcolor"		"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"		"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mklightblue"
 		"depressedFgColor_override" "mklightblue"
 		"border"		"blank"
@@ -420,8 +420,8 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"RobotoL16"
-		"fgcolor"		"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"		"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mklightblue"
 		"depressedFgColor_override" "mklightblue"
 		"border"		"blank"
@@ -446,7 +446,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"product12"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}		
 	
 	"RedCount"
@@ -467,7 +467,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"product12"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}	
 	"JoinBlueLabel"
 	{
@@ -487,7 +487,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"RobotoL32"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}		
 	"BlueLabel"
 	{
@@ -527,7 +527,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"RobotoL32"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"RedLabel"
 	{

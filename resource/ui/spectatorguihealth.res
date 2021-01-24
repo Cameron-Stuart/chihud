@@ -69,7 +69,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"mkTargetID"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"CircleTargetID"
 	{

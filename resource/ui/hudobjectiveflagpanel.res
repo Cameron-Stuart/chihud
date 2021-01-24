@@ -149,7 +149,7 @@
 		"textAlignment"	"center"	
 		"labelText"		"%bluescore%"
 		"font"			"RobotoBold24"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 		
 		"if_hybrid"
 		{
@@ -219,7 +219,7 @@
 		"textAlignment"	"center"	
 		"labelText"		"%redscore%"
 		"font"			"RobotoBold24"
-		"fgcolor"		"mkdarkerblue"		
+		"fgcolor"		"HudWhite"		
 		
 		"if_hybrid"
 		{

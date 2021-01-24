@@ -236,20 +236,20 @@
 				"unicode"		"0"
 				
 				"fgcolor_override"	"mkWhite"
-				"bgcolor_override"	"mkdarkerblue"
+				"bgcolor_override"	"HudWhite"
 				"disabledFgColor_override" "mkWhite"
-				"disabledBgColor_override" "mkdarkerblue"
-				"selectionColor_override" "mkdarkerblue"
+				"disabledBgColor_override" "HudWhite"
+				"selectionColor_override" "HudWhite"
 				"selectionTextColor_override" "mkWhite"
 				"defaultSelectionBG2Color_override" "mkblack"
 		
 				"Button"
 				{
 					"defaultFgColor_override"	"mkWhite"
-					"defaultBgColor_override"	"mkdarkerblue"
-					"selectedFgColor_override"	"mkdarkerblue"
+					"defaultBgColor_override"	"HudWhite"
+					"selectedFgColor_override"	"HudWhite"
 					"selectedBgColor_override"	"mkWhite"
-					"armedFgColor_override"	"mkdarkerblue"
+					"armedFgColor_override"	"HudWhite"
 					"armedBgColor_override"	"mkWhite"
 					"PaintBackgroundType"	"2"
 				}						
@@ -275,20 +275,20 @@
 				"unicode"		"0"
 				
 				"fgcolor_override"	"mkWhite"
-				"bgcolor_override"	"mkdarkerblue"
+				"bgcolor_override"	"HudWhite"
 				"disabledFgColor_override" "mkWhite"
-				"disabledBgColor_override" "mkdarkerblue"
-				"selectionColor_override" "mkdarkerblue"
+				"disabledBgColor_override" "HudWhite"
+				"selectionColor_override" "HudWhite"
 				"selectionTextColor_override" "mkWhite"
-				"defaultSelectionBG2Color_override" "mkdarkerblue"
+				"defaultSelectionBG2Color_override" "HudWhite"
 		
 				"Button"
 				{
 					"defaultFgColor_override"	"mkWhite"
-					"defaultBgColor_override"	"mkdarkerblue"
-					"selectedFgColor_override"	"mkdarkerblue"
+					"defaultBgColor_override"	"HudWhite"
+					"selectedFgColor_override"	"HudWhite"
 					"selectedBgColor_override"	"mkWhite"
-					"armedFgColor_override"	"mkdarkerblue"
+					"armedFgColor_override"	"HudWhite"
 					"armedBgColor_override"	"mkWhite"
 					"PaintBackgroundType"	"2"
 				}				
@@ -306,7 +306,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"mkdarkerblue"
+			"bgcolor_override"		"HudWhite"
 		}
 		"AveragesLabel"
 		{
@@ -1408,7 +1408,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"mkdarkerblue"
+			"bgcolor_override"		"HudWhite"
 		}
 		"RecordsLabel1"
 		{

@@ -18,9 +18,9 @@
 		"infocus_bgcolor_override" "0 0 0 0"
 		"outoffocus_bgcolor_override" " 0 0 0 0"
 		
-		"thumbnail_bgcolor"			"mkdarkerblue"
-		"thumbnail_bgcolor_mouseover"	"mkdarkerblue"
-		"thumbnail_bgcolor_selected"	"mkdarkerblue"
+		"thumbnail_bgcolor"			"HudWhite"
+		"thumbnail_bgcolor_mouseover"	"HudWhite"
+		"thumbnail_bgcolor_selected"	"HudWhite"
 		
 		"thumbnails_rows"		"4"
 		"thumbnails_columns"	"4"
@@ -37,7 +37,7 @@
 			"wide"			"70"
 			"tall"			"49"
 			"visible"		"0"
-			"bgcolor_override"		"mkdarkerblue"
+			"bgcolor_override"		"HudWhite"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"

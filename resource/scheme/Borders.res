@@ -667,7 +667,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -676,7 +676,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -685,7 +685,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -694,7 +694,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -706,7 +706,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -715,7 +715,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -724,7 +724,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}
@@ -733,7 +733,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "mkdarkerblue"
+					"color" "HudWhite"
 					"offset" "0 0"
 				}
 			}

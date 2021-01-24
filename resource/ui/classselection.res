@@ -167,8 +167,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -211,7 +211,7 @@
 		"labelText"		"SELECT YOUR"
 		"textAlignment"	"left"
 		"font"			"RobotoL22"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"SelectTeamLabel"
 	{
@@ -230,7 +230,7 @@
 		"labelText"		"CLASS"
 		"textAlignment"	"left"
 		"font"			"NeutraTitle27"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"scout"
 	{
@@ -256,8 +256,8 @@
 		"image_default"		"class_sel_sm_scout_inactive"
 		"image_armed"		"class_sel_sm_scout_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -269,8 +269,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -300,8 +300,8 @@
 		"image_default"		"class_sel_sm_soldier_inactive"
 		"image_armed"		"class_sel_sm_soldier_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -313,8 +313,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -359,8 +359,8 @@
 		"image_default"		"class_sel_sm_pyro_inactive"
 		"image_armed"		"class_sel_sm_pyro_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -371,9 +371,9 @@
 		
 		"paintbackground"	"0"
 		
-		"image_drawcolor"		"mkdarkerblue"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_drawcolor"		"HudWhite"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -438,8 +438,8 @@
 		"image_default"		"class_sel_sm_demo_inactive"
 		"image_armed"		"class_sel_sm_demo_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -451,8 +451,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -497,8 +497,8 @@
 		"image_default"		"class_sel_sm_heavy_inactive"
 		"image_armed"		"class_sel_sm_heavy_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -510,8 +510,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -556,8 +556,8 @@
 		"image_default"		"class_sel_sm_engineer_inactive"
 		"image_armed"		"class_sel_sm_engineer_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -569,8 +569,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -635,8 +635,8 @@
 		"image_default"		"class_sel_sm_medic_inactive"
 		"image_armed"		"class_sel_sm_medic_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -648,8 +648,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -694,8 +694,8 @@
 		"image_default"		"class_sel_sm_sniper_inactive"
 		"image_armed"		"class_sel_sm_sniper_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -707,8 +707,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -753,8 +753,8 @@
 		"image_default"		"class_sel_sm_spy_inactive"
 		"image_armed"		"class_sel_sm_spy_inactive"
 		
-		"fgcolor"			"mkdarkerblue"
-		"defaultFgColor_override" "mkdarkerblue"
+		"fgcolor"			"HudWhite"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 		"selectedFgColor_override" "mkaccent"
@@ -766,8 +766,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"mkdarkerblue"
-		"image_selectedcolor"	"mkdarkerblue"
+		"image_armedcolor"		"HudWhite"
+		"image_selectedcolor"	"HudWhite"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -864,7 +864,7 @@
 		"labelText"		"#TF_SelectAClass"
 		"textAlignment"	"center"
 		"font"			"surface15"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	
 	"MenuBG"
@@ -1177,7 +1177,7 @@
 		"labelText"		"%numScout%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}	
 	
 	"numSoldier"
@@ -1197,7 +1197,7 @@
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}		
 	
 	"numPyro"
@@ -1217,7 +1217,7 @@
 		"labelText"		"%numPyro%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}			
 	
 	"numDemoman"
@@ -1237,7 +1237,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}				
 	
 	"numHeavy"
@@ -1257,7 +1257,7 @@
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}					
 	
 	"numEngineer"
@@ -1277,7 +1277,7 @@
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}						
 	
 	"numMedic"
@@ -1297,7 +1297,7 @@
 		"labelText"		"%numMedic%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}							
 	
 	"numSniper"
@@ -1317,7 +1317,7 @@
 		"labelText"		"%numSniper%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}						
 	
 	"numSpy"
@@ -1337,7 +1337,7 @@
 		"labelText"		"%numSpy%"
 		"textAlignment"	"east"
 		"font"			"product11"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	
 	"MvMUpgradeImageScout"

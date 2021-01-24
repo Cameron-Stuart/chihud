@@ -406,7 +406,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "MKLIGHTBLUE"
-		"bgcolor_override"	"MKDARKERBLUE"
+		"bgcolor_override"	"HudWhite"
 	}
 	
 	"ScoreEntry"

@@ -1165,7 +1165,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"LoadoutLabel"
 	{
@@ -1183,7 +1183,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	"BackpackSymbol"
 	{
@@ -1276,7 +1276,7 @@
 		"inactiveimage"		"replay\thumbnails\bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgColor_override" "mkdarkerblue"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override"   "mkaccent"
 		"depressedFgColor_override" "mkaccent"	
 	}	
@@ -1321,7 +1321,7 @@
 		"inactiveimage"		"replay\thumbnails\bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgColor_override" "mkdarkerblue"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override"   "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 	}
@@ -1366,7 +1366,7 @@
 		"inactiveimage"		"replay\thumbnails\bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgColor_override" "mkdarkerblue"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override"   "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 	}	
@@ -1411,7 +1411,7 @@
 		"inactiveimage"		"replay\thumbnails\bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgColor_override" "mkdarkerblue"
+		"defaultFgColor_override" "HudWhite"
 		"armedFgColor_override"   "mkaccent"
 		"depressedFgColor_override" "mkaccent"
 	}	

@@ -111,7 +111,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"		"0"
 		"wrap"			"0"
-		"fgcolor_override"		"mkdarkerblue"
+		"fgcolor_override"		"HudWhite"
 		"bgcolor_override"	"0 0 0 0"
 		"labelText"		"%teamname%"
 		"textAlignment"		"center"

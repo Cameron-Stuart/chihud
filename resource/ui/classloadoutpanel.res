@@ -620,7 +620,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"fgcolor_override"	"mklightblue"
-		"defaultBgColor_override" 	"mkdarkerblue"
+		"defaultBgColor_override" 	"HudWhite"
 		"armedBgColor_override" 	"mkaccent"
 		"depressedBgColor_override" "mkaccent"
 		"paintbackgroundtype"		"2"

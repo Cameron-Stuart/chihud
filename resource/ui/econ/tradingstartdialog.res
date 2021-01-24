@@ -143,7 +143,7 @@
 		"tall"			"130"
 		"PaintBackgroundType"	"2"
 		"fgcolor_override"	"mklightblue"
-		"bgcolor_override"	"mkdarkerblue"
+		"bgcolor_override"	"HudWhite"
 		
 		"PlayerList"
 		{
@@ -185,7 +185,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 
 		"subbutton0"
@@ -309,7 +309,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 		
 		"EmptyPlayerListLabel"
@@ -330,7 +330,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 	}
 	"StatePanel2"
@@ -361,7 +361,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 		
 		"EmptyPlayerListLabel"
@@ -382,7 +382,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 	}
 	"StatePanel3"
@@ -413,7 +413,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 		
 		"URLHelpLabel"
@@ -434,7 +434,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "mkdarkerblue"
+			"fgcolor_override" "HudWhite"
 		}	
 		
 		"URLFailLabel"
@@ -498,7 +498,7 @@
 			"unicode"			"0"
 			"wrap"				"0"
 			"fgcolor_override"	"mklightblue"
-			"bgcolor_override"	"mkdarkerblue"
+			"bgcolor_override"	"HudWhite"
 			"paintbackgroundtype" "2"
 			"labelText"			""
 			"font"				"HudFontSmall"

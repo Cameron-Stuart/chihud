@@ -474,7 +474,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
 		"font"			"mktargetidname"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 		"labelText"		"%blueteamplayercount%"
 		"textAlignment"		"west"
 		"xpos"			"c-110"
@@ -556,7 +556,7 @@
 		"zpos"			"1235"
 		"wide"			"130"
 		"tall"			"20"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -669,7 +669,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 		"centerwrap"	"0"
 		
 		if_mvm
@@ -1548,7 +1548,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"mkdarkerblue"
+			"fgcolor"		"HudWhite"
 		}			
 		"DeathsLabel1"
 		{
@@ -1566,7 +1566,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"mkdarkerblue"
+			"fgcolor"		"HudWhite"
 		}					
 		"AssistsLabel1"
 		{
@@ -1584,7 +1584,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"mkdarkerblue"
+			"fgcolor"		"HudWhite"
 		}
 		"DestructionLabel"
 		{
@@ -1763,7 +1763,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"mkdarkerblue"
+			"fgcolor_override"	"HudWhite"
 			
 			"if_mvm"
 			{
@@ -1837,7 +1837,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"mkdarkerblue"
+			"fgcolor_override"	"HudWhite"
 			"if_mvm"
 			{
 				"visible"		"0"
@@ -1910,7 +1910,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"mkdarkerblue"
+			"fgcolor_override"	"HudWhite"
 
 			"if_mvm"
 			{
@@ -1986,7 +1986,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"mkdarkerblue"
+			"fgcolor_override"	"HudWhite"
 			
 			"if_mvm"
 			{
@@ -2165,7 +2165,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"mkdarkerblue"
+			"fgcolor_override"	"HudWhite"
 			
 			"if_mvm"
 			{
@@ -2190,7 +2190,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"mkdarkerblue"
+			"fgcolor_override"	"HudWhite"
 			
 			"if_mvm"
 			{

@@ -183,9 +183,9 @@
 		"defaultBgColor_override"	"0 0 0 0"
 		"armedBgColor_override"		"0 0 0 0"
 		"depressedBgColor_override"	"0 0 0 0"
-		"defaultFgColor_override"	"mkdarkerblue"
-		"armedFgColor_override" 	"mkdarkerblue"
-		"depressedFgColor_override" "mkdarkerblue"
+		"defaultFgColor_override"	"HudWhite"
+		"armedFgColor_override" 	"HudWhite"
+		"depressedFgColor_override" "HudWhite"
 		"border_default"			"ButtonHover"
 		"border_armed"				"ButtonHover"
 	}
@@ -209,7 +209,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"mkTopBar"
 	}		
 	"BackBGShadow"
 	{

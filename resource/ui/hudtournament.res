@@ -473,7 +473,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		"mkdarkerblue"
+		"fillcolor"		"HudWhite"
 		
 		if_mvm
 		{
@@ -493,7 +493,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"mkdarkerblue"
+		"fillcolor"		"HudWhite"
 		
 		if_mvm
 		{
@@ -680,7 +680,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
 		"font"			"mk12"
-		"fgcolor_override"	"mkdarkerblue"
+		"fgcolor_override"	"HudWhite"
 		"xpos"			"c-70"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -793,7 +793,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
 		"font"			"mk12"
-		"fgcolor_override"	"mkdarkerblue"
+		"fgcolor_override"	"HudWhite"
 		"xpos"			"c5"
 		"ypos"			"17"
 		"zpos"			"1"

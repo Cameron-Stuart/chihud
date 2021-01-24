@@ -46,7 +46,7 @@
 		"border_armed"		"mkbuttonselected"
 		"paintbackground"	"0"
 		
-		"defaultBgColor_override"	"mkdarkerblue"		
+		"defaultBgColor_override"	"HudWhite"		
 		"defaultFgColor_override" "mklightblue"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
@@ -97,7 +97,7 @@
 		"border_armed"		"mkbuttonselected"
 		"paintbackground"	"0"
 		
-		"defaultBgColor_override"	"mkdarkerblue"		
+		"defaultBgColor_override"	"HudWhite"		
 		"defaultFgColor_override" "mklightblue"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
@@ -148,7 +148,7 @@
 		"border_armed"		"mkbuttonselected"
 		"paintbackground"	"0"
 		
-		"defaultBgColor_override"	"mkdarkerblue"		
+		"defaultBgColor_override"	"HudWhite"		
 		"defaultFgColor_override" "mklightblue"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"
@@ -199,7 +199,7 @@
 		"border_armed"		"mkbuttonselected"
 		"paintbackground"	"0"
 		
-		"defaultBgColor_override"	"mkdarkerblue"		
+		"defaultBgColor_override"	"HudWhite"		
 		"defaultFgColor_override" "mklightblue"
 		"armedFgColor_override" "mkaccent"
 		"depressedFgColor_override" "mkaccent"

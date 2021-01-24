@@ -411,9 +411,9 @@
 				"border_armed"		""
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "mkdarkerblue"
+				"defaultFgColor_override" "HudWhite"
 				"armedFgColor_override" "mkaccent"
-				"depressedFgColor_override" "mkdarkerblue"
+				"depressedFgColor_override" "HudWhite"
 			
 				"image_drawcolor"	"215 215 215 255"
 				"image_armedcolor"	"255 255 255 255"
@@ -471,7 +471,7 @@
 				"border_armed"		""
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "mkdarkerblue"
+				"defaultFgColor_override" "HudWhite"
 				"armedFgColor_override" "mkaccent"
 				"depressedFgColor_override" "mkaccent"
 			
@@ -2883,9 +2883,9 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgColor_override"	"mkdarkerblue"
+		"defaultFgColor_override"	"HudWhite"
 		"armedFgColor_override"	"mkaccent"
-		"depressedFgColor_override"	"mkdarkerblue"
+		"depressedFgColor_override"	"HudWhite"
 		
 		"image_drawcolor"	"215 215 215 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -2931,9 +2931,9 @@
 
 		"navUp"			"Notifications_Panel"
 		"navLeft"		"SettingsButton"
-		"defaultFgColor_override"	"mkdarkerblue"
+		"defaultFgColor_override"	"HudWhite"
 		"armedFgColor_override"	"mkaccent"
-		"depressedFgColor_override"	"mkdarkerblue"
+		"depressedFgColor_override"	"HudWhite"
 		
 		"image_drawcolor"	"215 215 215 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -2986,9 +2986,9 @@
 		"navDown"		"DisconnectButton"
 		"navLeft"		"DisconnectButton"
 		"navRight"		"NewUserForumsButton"
-		"defaultFgColor_override"	"mkdarkerblue"
+		"defaultFgColor_override"	"HudWhite"
 		"armedFgColor_override"	"mkaccent"
-		"depressedFgColor_override"	"mkdarkerblue"
+		"depressedFgColor_override"	"HudWhite"
 		
 		"image_drawcolor"	"215 215 215 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -3042,9 +3042,9 @@
 		"navUp"			"QuitButton"
 		"navRight"		"NewUserForumsButton"
 		
-		"defaultFgColor_override"	"mkdarkerblue"
+		"defaultFgColor_override"	"HudWhite"
 		"armedFgColor_override"	"mkaccent"
-		"depressedFgColor_override"	"mkdarkerblue"
+		"depressedFgColor_override"	"HudWhite"
 		
 		"image_drawcolor"	"215 215 215 255"
 		"image_armedcolor"	"255 255 255 255"

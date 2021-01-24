@@ -186,7 +186,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"mouseinputenabled" "0"
-					"fgcolor_override"	"mkdarkerblue"
+					"fgcolor_override"	"HudWhite"
 				}
 
 				"DescLabel"
@@ -205,8 +205,8 @@
 					"pinCorner"		"0"
 					"visible"		"0"
 					"enabled"		"0"
-					"fgcolor_override"	"mkdarkerblue"
-					"fgcolor_override"	"mkdarkerblue"
+					"fgcolor_override"	"HudWhite"
+					"fgcolor_override"	"HudWhite"
 					"auto_wide_tocontents" "0"
 					"wrap"				   "1"
 					"centerwrap"		   "1"
@@ -814,7 +814,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			//"labelText"		"#GameUI_GameMenu_Options"
-			"font"			"mkdarkerblue"
+			"font"			"HudWhite"
 			"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"

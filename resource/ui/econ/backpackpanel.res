@@ -71,7 +71,7 @@
 				"depressedFgColor_override" "mkaccent"
 				"border"		"mkbutton"
 
-				"defaultBgColor_override" 	"mkdarkerblue"
+				"defaultBgColor_override" 	"HudWhite"
 				"armedBgColor_override" 	"33 38 48 255"
 				"depressedBgColor_override" "33 38 48 255"
 			}	

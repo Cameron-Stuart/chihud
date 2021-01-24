@@ -190,7 +190,7 @@ event HudHealthBonusPulseStop
 	Animate PlayerStatusHealthValueSpectator FgColor "mkwhite" Accel 0.0 0.0
 	Animate PlayerStatusHealthValueFreezePanel FgColor "mkwhite" Accel 0.0 0.0
 	Animate TournamentSpectatorHealth FgColor "mkwhite" Accel 0.0 0.0
-	Animate PlayerStatusHealthValueTargetID 		 FgColor "mkdarkerblue" Accel 0.0 0.0
+	Animate PlayerStatusHealthValueTargetID 		 FgColor "HudWhite" Accel 0.0 0.0
 	Animate CircleTargetID 		 FgColor "mkwhite" Accel 0.0 0.0
 }
 
@@ -228,7 +228,7 @@ event HudHealthDyingPulseStop
 	Animate PlayerStatusHealthValueSpectator FgColor "mkwhite" Accel 0.0 0.0
 	Animate PlayerStatusHealthValueFreezePanel FgColor "mkwhite" Accel 0.0 0.0
 	Animate TournamentSpectatorHealth FgColor "mkwhite" Accel 0.0 0.0
-	Animate PlayerStatusHealthValueTargetID 		 FgColor "mkdarkerblue" Accel 0.0 0.0
+	Animate PlayerStatusHealthValueTargetID 		 FgColor "HudWhite" Accel 0.0 0.0
 	Animate CircleTargetID 		 FgColor "mkwhite" Accel 0.0 0.0
 }
 

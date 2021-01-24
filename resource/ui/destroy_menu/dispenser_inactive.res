@@ -18,7 +18,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"mkdarkerblue"
+		"fgcolor"		"HudWhite"
 	}
 	
 	"ItemBackground"	

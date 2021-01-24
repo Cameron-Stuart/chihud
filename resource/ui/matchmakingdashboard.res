@@ -200,7 +200,7 @@
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"mkdarkerblue"
+			"image_drawcolor"	"HudWhite"
 			"image_armedcolor"	"mkaccent"
 
 			"SubImage"
