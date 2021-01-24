@@ -16,62 +16,63 @@
 		"expanded_height"	"45"
 		"resize_time"		"0.2"
 	}
-		"FindAGameButton"
+
+	"FindAGameButton"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"FindAGameButton"
+		"xpos"			"rs1-1"
+		"ypos"			"-6"
+		"zpos"			"993"
+		"wide"			"115"
+		"tall"			"23"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"font"			"RobotoBold16"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"Command"		"find_game"
+		"proportionaltoparent"	"1"
+		"labeltext"		"Matchmaking"
+		"mouseinputenabled"	"1"
+		"keyboardinputenabled"	"0"
+		"actionsignallevel"	"2"
+		"roundedcorners"	"1"
+		"textinsety"	"5"
+		"textinsetx"	"25"
+		"use_proportional_insets"	"1"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"armedBgColor_override"		"0 0 0 0"
+		"defaultBgColor_override"	"0 0 0 0"
+
+		"defaultFgColor_override" "mklightblue"
+		"armedFgColor_override" "mkaccent"
+		"image_drawcolor"	"0 0 0 0"
+		"image_armedcolor"	"0 0 0 0"
+
+		"SubImage"
 		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"FindAGameButton"
-			"xpos"			"rs1+18"
-			"ypos"			"-6"
-			"zpos"			"993"
-			"wide"			"115"
-			"tall"			"23"
-			"autoResize"	"0"
-			"pinCorner"		"3"
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"6"
+			"ypos"			"10"
+			"zpos"			"1"
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"RobotoBold16"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"Command"		"find_game"
+			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
-			"labeltext"		"find a game"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-			"actionsignallevel"	"2"
-			"roundedcorners"	"1"
-			"textinsety"	"5"
-			"textinsetx"	"25"
-			"use_proportional_insets"	"1"
-
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"armedBgColor_override"		"0 0 0 0"
-			"defaultBgColor_override"	"0 0 0 0"
-
-			"defaultFgColor_override" "mklightblue"
-			"armedFgColor_override" "mkaccent"
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor"	"0 0 0 0"
-
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"6"
-				"ypos"			"10"
-				"zpos"			"1"
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
-				"image"			""
-			}
+			"image"			""
 		}
+	}
 
 	"MainMenuBa2r"
 	{
@@ -118,6 +119,22 @@
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
+
+		
+		// Dummy item that's both disabled and invisible to hide the stupid
+		// annoying grey rectangle from the top right corner of the screen
+		"FindAGameButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"FindAGameButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"994"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
+		}
 		
 
 		"Gradient"
