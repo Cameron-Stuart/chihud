@@ -2972,7 +2972,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"Bye"
+		"labelText"		"Quit Game"
 		"font"			"Regular16"
 		"textAlignment"	"west"
 		"textinsetx"	"25"
