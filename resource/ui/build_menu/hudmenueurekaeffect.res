@@ -30,7 +30,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"	"0"	
-		"fillcolor"		"mkGUI"
+		"fillcolor"		"mkDarkerBlue2"
 		"PaintBackgroundType"	"2"
 	}
 	"blueheader"
@@ -53,7 +53,7 @@
 		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"100"
-		"fillcolor"		"mkgui"
+		"fillcolor"		"mkDarkerBlue2"
 	}
 	"leftline"
 	{
@@ -114,7 +114,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"product14"
-		"xpos"			"-30"			// align me to the left edge of the first selection
+		"xpos"			"-26"			// align me to the left edge of the first selection
 		"ypos"			"36"
 		"zpos"			"12342"
 		"wide"			"150"
@@ -123,7 +123,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"teleport"
+		"labelText"		"TELEPORT"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
