@@ -357,7 +357,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HUDlabel"
 		"font"			"robotobold16"
-		"labelText"		"mkhud"
+		"labelText"		"chihud"
 		"textAlignment"	"west"
 		"xpos"			"2"
 		"ypos"			"-3"
