@@ -12,7 +12,6 @@
 		"label" "" 
 		"command" "null"
 		"subimage" ""
-		"OnlyInGame"	"1"
 	}
 	"VRModeButton"
 	{
